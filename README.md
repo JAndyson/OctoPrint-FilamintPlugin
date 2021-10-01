@@ -1,4 +1,4 @@
-# OctoPrint-Helloworld
+# OctoPrint-FilamintPlugin
 
 **TODO:** Describe what your plugin does.
 
